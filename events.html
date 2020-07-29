@@ -1,0 +1,78 @@
+<html lang='en'>
+	<head>
+		<title>Today's Events</title>
+		<style>
+	.clearfix {
+    clear: both;
+}
+.width {
+    width: 500px;
+}
+.heading {
+	display: none;
+}
+.eventList {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 23px;
+    color: #666;
+    clear: both;
+}
+.eventList.heading {
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 0 10px 0;
+    padding-top: 10px;
+}
+.eventList .item {
+    background-color: #EAE2D1;
+    margin-bottom: 10px;
+    padding: 5px;
+    border: 0;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+.eventList a, .eventList .title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #00532a;
+    text-decoration: none;
+}
+.eventList a:hover {
+    text-decoration: underline;
+}
+.eventList .time {
+    font-weight: bold;
+    color: #363636;
+    padding-left: 15px;
+}
+.eventList .date {
+    float: right;
+    padding-right: 10px;
+}
+.eventList img {
+    width: 100%;
+    height: auto;
+}
+.eventList .image {
+	display: none;
+}
+.eventList .branch {
+	display: none;
+}
+
+
+		</style>
+	</head>
+
+	<body>
+	<h1>Today's Events</h1>
+		<div style="width: 300px; text-align: center;">
+			<div class="eventlist width heading">Upcoming Events:</div>
+			<div id="eventsinfo" class="eventsinfo"></div>
+			<script type="text/javascript" src="http://warrenville.evanced.info/signup/eventsxml.aspx?dm=html&nd=0&private=1"></script>
+		</div>
+	</body>
+
+</html>

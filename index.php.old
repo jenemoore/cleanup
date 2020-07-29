@@ -1,0 +1,69 @@
+<?php $page_title = "Warrenville Public Library District"; ?>
+
+<?php include("includes/header.php"); ?>
+
+<div id="content">
+	<div id="quick-links">
+		<h2>Newsletters:</h2>
+		<ul>
+			<li><a href="programs/ReadingMattersSpring2020.pdf" target="_blank">View Reading Matters (Spring 2020)</a> &raquo;</li>
+			<li><a href="https://visitor.r20.constantcontact.com/d.jsp?llr=yipadecab&p=oi&m=1101796490520&sit=ibbni7scb&f=2df34856-88f3-4e4b-b1f9-48df1cafe8ba">Subscribe to Library eNews</a><a href="enewsletter.htm"></a> &raquo;</li>
+			<li><a href="https://www.libraryaware.com/1074/Subscribers/Subscribe">Subscribe to Nextreads Featuring "Great Reads"</a> &raquo;</li>
+		</ul>
+		<h2>Quick Links:</h2>
+		<ul>
+			<li><a href="services/notificationandbilling.htm">Request eMail Notifications</a> &raquo;</li>
+			<li><a href="https://magic.collectorsolutions.com/magic-ui/Login/warrenville-public-library-dist" target="_blank">Make an Online Payment</a><a href="https://www.epayillinois.com/Home/ShowSiteLandingPage/4899"></a> &raquo;</li>
+			<li><a href="https://www.warrenville.com/reading/emedia.php" target="_blank" track="on" shape="rect" linktype="1">Download Books, Music, Movies and More</a> &raquo;</li>
+		</ul>
+	</div><!--end quick-links-->
+	<div id="slideshow">
+		<div id="sscontrols">
+			<!--icons by www.oxygen-icons.org -->
+			<span><a href="" id="prev"><img src="images/prev.png"></a></span>
+			<span><a href="" id="play"><img src="images/play.png"></a></span>
+			<span><a href="" id="pause"><img src="images/pause.png"></a></span>
+			<span><a href="" id="next"><img src="images/next.png"></a></span>
+		</div>
+		<div id="slides"> 
+		<!--<img src="slideshow/Weather closing January 29 2019 web.jpg" width="960" height="540" />-->
+		<a href="https://www.goodreads.com/group/show/1092262-wpld-book-discussions"><img src="slideshow/200601Books on App.png" width="960" height="540" border="0"/></a>
+		<a href="https://warrenville.libnet.info/events"><img src="slideshow/200615 Dial A Story .png" width="960" height="540" border="0"/></a>
+		<a href="https://www.warrenville.com/reading/emedia.php#hoopla"><img src="slideshow/Hoopla.jpg" width="960" height="540" /></a>	
+		<a href="https://www.warrenville.com/reading/emedia.php#overdrive"><img src="slideshow/Overdrive.jpg" width="960" height="540" />	</a>	
+		<a href="https://www.warrenville.com/reading/emedia.php#rbdigital"><img src="slideshow/rb digital magazines.jpg" width="960" height="540" /></a></div>
+	</div>
+	<!--end slideshow-->
+	<div style="clear:both">
+		<div id="leftCol">
+		<iframe src="https://warrenville.libnet.info/widget?id=3606&amp;style=350&amp;location=653" data-widgetid="3606" data-client="warrenville" scrolling="no" style="overflow: hidden;" marginheight="0" class="widgetframepreview" onload="resizeIframe(this)" height="1100" frameborder="0" width="330"></iframe>
+            
+            
+		</div>
+
+	</div>
+
+	<div id="rightCol">
+	<div class="featured-box">
+		<p>Library Operations Update (June 17, 2020) The Library building remains closed to the public but is accepting returns and offering curbside pickup. Both services are offered on a limited schedule. Learn the basics about returns at <a href="http://wpld.info/returns">wpld.info/returns</a>. Get the details about curbside pickup at <a href="http://wpld.info/curbside">wpld.info/curbside</a>.</p>
+		<p>Library staff are working in the building to coordinate returns and curbside pickup. We are monitoring voice mail (630/393-1171) and email Monday through Saturday, 9:30 am-5 pm. Email <a href="mailto:adultservices@warrenville.com">adultservices@warrenville.com</a> or <a href="mailto:youthservices@warrenville.com">youthservices@warrenville.com</a> to request items, get reading recommendations and get assistance with research. Email <a href="mailto:memberservices@warrenville.com">memberservices@warrenville.com</a> if you have questions about your library account. Email <a href="mailto:curbside@warrenville.com">curbside@warrenville.com</a> if you have questions about curbside pickup.</p>
+		<p><a href="https://www.warrenville.com/covidresources.php">Click here for information about COVID-19 and links to resources.</a></p>
+	</div>
+	<h3>Good to Know</h3>
+	<div id="blogfeed">
+      <br\>
+		<div>
+		<script language="JavaScript" src="https://feed2js.org//feed2js.php?src=http%3A%2F%2Fwww.warrenville.com%2Fblog%2F%3Ffeed%3Drss2&num=2&date=y&targ=y&utf=y&html=a"  charset="UTF-8" type="text/javascript"></script>
+		<noscript>
+			<a href="https://feed2js.org//feed2js.php?src=http%3A%2F%2Fwww.warrenville.com%2Fblog%2F%3Ffeed%3Drss2&num=2&date=y&targ=y&utf=y&html=y">View RSS feed</a>
+		</noscript>
+</div>
+	 </div>
+
+   </div>
+
+	
+    
+</div><!--end content-->
+
+<?php include("includes/footer.html"); ?>
