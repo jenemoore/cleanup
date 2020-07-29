@@ -1,0 +1,26 @@
+Notes:
+
+--why do we not believe in letting people see what links they've visited?
+--convert to css grid
+--change most ids to classes - work out the selection issues
+--use semantic tags: header, nav, main, section, article, footer; figure & figcaption if captions are necessary; time
+    --header and footer can also be used inside article
+    --use dl (description list) with dt (description title) and dd (description data) for resource links
+    --hgroup groups subheadings together when they appear one right after the other, no content in between
+    --i used for italics used for semantic reasons; em used for emphasis
+    --b used for keywords, strong used for emphasis
+    --address
+    --div vs span: use div when no other content tag is appropriate; span inherets meaning from its children
+    --use br for significant content breaks, not for styling
+    --link to telephone numbers: <a href="tel:+1....">
+
+learn-the-web.algonquindesign.ca
+
+https://www.w3schools.com/css/css_dropdowns.asp
+
+//h1: used in header, 404
+h2: used in index
+h3: used on most pages: breadcrumb links, actual headers on COVID page
+h4: what we actually use for subheadings
+h5: misused on jobs page, actual subheadings on ondemand, one subheading on computerskills
+h6: actual subheadings on ondemand

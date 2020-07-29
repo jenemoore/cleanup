@@ -7,7 +7,7 @@ sidebarDom.style.height = (contentDom.offsetHeight-65)+"px"; }
 
 startList = function() {
 if (document.all&&document.getElementById) {
-navRoot = document.getElementById("nav");
+navRoot = document.getElementById("superfish");
 for (i=0; i<navRoot.childNodes.length; i++) {
 node = navRoot.childNodes[i];
 if (node.nodeName=="LI") {

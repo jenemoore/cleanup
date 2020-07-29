@@ -52,15 +52,15 @@
 					$u.css('display','none');
 				});
 			};
-		
+
 		return this.each(function() {
 			var o = $.superfish.o[this.serial]; /* get this menu's options */
-			
+
 			/* if callbacks already set, store them */
 			var _onInit = o.onInit,
 				_onBeforeShow = o.onBeforeShow,
 				_onHide = o.onHide;
-				
+
 			$.extend($.superfish.o[this.serial],{
 				onInit		: function() {
 					onInit.call(this); /* fire our Supposition callback */
@@ -81,6 +81,6 @@
 })(jQuery);
 
 $(document).ready(function() {
-	var secondLevelDropdown = $("#nav .sf-menu ul ul").parent();				
+	var secondLevelDropdown = $("nav .sf-menu ul ul").parent();				
 	$(secondLevelDropdown).addClass("arrow");
 });

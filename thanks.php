@@ -4,18 +4,21 @@
 
 <div id="content" class="internal">
 
-<div id="oneCol">
-<h3>Library Card  Registration Confirmation</h3>
-<p>&nbsp;</p>
-<td align="left" valign="top">
-      
-	  <p>Thank you for your submission.</p> 
-    <p>&nbsp;</p></td></tr>
-</table>
+    <div id="oneCol">
+        <h3>Library Card Registration Confirmation</h3>
+        <p>&nbsp;</p>
+        <td align="left" valign="top">
 
-<p>&nbsp;</p>
+            <p>Thank you for your submission.</p>
+            <p>&nbsp;</p>
+        </td>
+        </tr>
+        </table>
 
+        <p>&nbsp;</p>
+
+    </div>
 </div>
-</div><!--end content-->
+<!--end content-->
 
 <?php include("includes/footer.html"); ?>
