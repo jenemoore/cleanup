@@ -50,7 +50,7 @@
 	<![endif]-->
 
     <!--Google Analytics javascript-->
-    <script>
+    <!--<script>
         (function(i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
             i[r] = i[r] || function() {
@@ -66,7 +66,7 @@
         ga('create', 'UA-33493009-1', 'auto');
         ga('send', 'pageview');
 
-    </script>
+    </script>-->
 
 </head>
 
@@ -173,7 +173,7 @@
             <div style="clear:both">
                 <nav id="superfish">
                     <ul class="sf-menu">
-                        <li><a href="#">Catalog/My Account</a>
+                        <li class="top"><a href="#">Catalog/My Account</a>
                             <ul>
                                 <li><a href="https://wpld.ent.sirsi.net/client/en_US/wpld">Catalog</a></li>
                                 <li><a href="https://wpld.ent.sirsi.net/client/en_US/wpld/search/patronlogin/http:$002f$002fwpld.ent.sirsi.net$002fclient$002fen_US$002fwpld$002fsearch$002faccount$003f">My Account</a></li>
@@ -185,7 +185,7 @@
                                 <li><a href="about/contact.php">Contact Us</a></li>
                                 <li><a href="about/history.php">History &amp; Mission</a></li>
                                 <li><a href="about/jobs.php">Job Opportunities</a></li>
-                                <li><a href="#">Library Governance</a>
+                                <li><a href="#" class="subm">Library Governance <i class="subm-arrow"></i></a>
                                     <ul>
                                         <li><a href="about/libraryboard.php">Library Board</a></li>
                                         <li><a href="about/agendasandminutes.php">Agendas &amp; Minutes</a></li>
@@ -193,7 +193,7 @@
                                         <li><a href="about/ordinances.php">Ordinances</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="#">Library Policies</a>
+                                <li><a href="#"  class="subm">Library Policies <i class="subm-arrow"></i></a>
                                     <ul>
                                         <li><a href="about/policies.php">Policies</a></li>
                                         <li><a href="about/freedomofinformationact.php">FOIA</a></li>
@@ -206,7 +206,7 @@
                             <ul>
                                 <li><a href="services/bookalibrarian.php">Book a Librarian</a></li>
                                 <li><a href="services/communityinvolvement.php">Community Involvement</a></li>
-                                <li><a href="#">Computers & Technology</a>
+                                <li><a href="#" class="subm">Computers & Technology <i class="subm-arrow"></i></a>
                                     <ul>
                                         <li><a href="services/computerskills.php">Computer Skills</a></li>
                                         <li><a href="services/computerandwifi.php">Computers & WiFi</a></li>
@@ -216,7 +216,7 @@
                                 </li>
                                 <li><a href="services/homebound.php">Homebound Service</a></li>
                                 <!--<li><a href="https://warrenville.libnet.info/itemrequestform">Item Request Form</a></li>-->
-                                <li><a href="#">Library Cards & Lending</a>
+                                <li><a href="#" class="subm">Library Cards & Lending <i class="subm-arrow"></i></a>
                                     <ul>
                                         <li><a href="services/librarycards.php">Library Cards</a></li>
                                         <li><a href="services/loanperiodsandfees.php">Loan Periods & Fees</a></li>
@@ -239,7 +239,7 @@
                                 <li><a href="blog"> Book & Media Blog </a></li>
                                 <li><a href="reading/localbookdiscussions.php">Book Discussions</a></li>
                                 <li><a href="https://warrenville.libnet.info/discover">Discover Your Next Read</a></li>
-                                <li><a href="# ">eBooks & eMedia</a>
+                                <li><a href="#" class="subm">eBooks & eMedia <i class="subm-arrow"></i></a>
                                     <ul>
                                         <li><a href="reading/emedia.php">Getting Started</a></li>
                                         <li><a href="https://www.hoopladigital.com">Hoopla</a></li>
