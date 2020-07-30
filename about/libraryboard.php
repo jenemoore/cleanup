@@ -9,7 +9,7 @@
 
 
 <h4>Library Board</h4>
-<p>Seven elected trustees who serve terms of six years govern the Library District. Most board meetings are held on the third Wednesday of each month at 7 p.m. in the Board room. These meetings are open to the public. <a href="https://www.warrenville.com/about/agendasandminutes.php">Click here to view the meeting calendar, agendas and minutes.</a> The Board of Trustees establishes the budget and policy for the District and appoints the Library Director who serves as the Library's Chief Administrative Officer.</p>
+<p>Seven elected trustees who serve terms of six years govern the Library District. Most board meetings are held on the third Wednesday of each month at 7 p.m. in the Board room. These meetings are open to the public. <a href="agendasandminutes.php">Click here to view the meeting calendar, agendas and minutes.</a> The Board of Trustees establishes the budget and policy for the District and appoints the Library Director who serves as the Library's Chief Administrative Officer.</p>
 <p>&nbsp;</p>
 <p>Written communications may be sent to the Board President, Warrenville Public Library District, 28W751 Stafford Place, Warrenville, IL 60555. Officers are elected by the Board for a two-year term. Current officers terms expire in 2021.  <a href="mailto:trustees@warrenville.com">Send an email to all Library Trustees</a>.</p>
 <p>&nbsp;</p>

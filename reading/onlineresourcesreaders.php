@@ -10,8 +10,6 @@
 <td width=45%>
 <H4>Book Reviews, Summaries &amp; More</H4>
 <ul class="resource_list">
-	<!--<li><a href="https://www.warrenville.com/blog/"><strong>Beyond Dust Jackets</strong></a> - Our  Library blog,  &ldquo;Beyond Dust Jackets,&rdquo; presents some of our thoughts about specific books,  music, movies and TV series.</li>
-	<li><strong>Book Lists</strong> - Our Library book lists for<strong> <a href="https://www.warrenville.com/reading/booklistsadult.php">adults</a></strong>, <a href="https://www.warrenville.com/reading/bookliststeen.php"><strong>teens</strong></a> and <a href="https://www.warrenville.com/reading/booklistsyouth.php"><strong>youth</strong></a>.</li>-->
 	<li><A href="https://www.bookpage.com"><strong>BookPage</strong></A> - An online magazine for selected fiction and nonfiction reviews. Includes archives.</li>
 	<li><A href="https://www.bookslut.com"><strong>Bookslut</strong></A> - A monthly web magazine and daily blog dedicated to those who love to read. Includes news, reviews,   commentary, insight and opinions.</li>
 	<li><A href="https://www.bookspot.com"><strong>BookSpot</strong></A> - A resource center for book-related websites. Content includes genres, bestseller lists, book reviews and author info. Also contains a "Young Adult Books" section, as well as a "Book Discussion Center" for online and offline book discussions.</li>
@@ -48,7 +46,7 @@
 
 <td width=45% >
 <h4>Genre Resources</h4>
-<ul class="resource_list">  
+<ul class="resource_list">
     <li><A href="https://www.poisonedpen.com"><strong>The Poisoned Pen</strong></A> - This site is published by an independent book seller, focuses on mystery book lists, mystery   conferences, and award lists. For a fee, readers can subscribe to their newsletter.</li>
     <li><A href="https://www.theromancereader.com/"><strong>The Romance Reader</strong></A> - This sister site to The Mystery Reader also includes book reviews, author information and features about romance.</li>
 	<li><a href="https://smartbitchestrashybooks.com/"><strong>Smart Bitches, Trashy Books</strong></a> - Reviews of romance (and other) novels, featuring content warnings and sortable by heat level.</li>
@@ -65,7 +63,7 @@
 	<li><a href="https://strangehorizons.com/"><strong>Strange Horizons</strong></a> - A digital magazine which has been publishing online since 2000; new free content is published weekly.</li>
 	<li><a href="https://subterraneanpress.com/magazine"><strong>Subterranean Press</strong></a> - The digital branch of the magazine and publisher offers regular new short fiction and extensive archives.</li>
 </ul>
-  
+
 <H4>Reading Guides</H4>
 <ul class="reading_list">
     <li><A href="https://www.randomhouse.com/broadway/browse/rgg.html">Broadway Reading Guides</A></li>

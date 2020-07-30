@@ -11,7 +11,7 @@
 <h4 align="left"> Summer Reading Event for  Adults, Teens &amp; Youth<br>
   &ldquo;Read for a Cause&rdquo; July 1 - August 15, 2020</h4>
   <h4>Reading Logs: <a href="https://warrenville.libnet.info/read-for-a-cause">Online</a> and <a href="https://warrenville.libnet.info/read-for-a-cause#forms">Printable</a></h4>
-  <h4><a href="https://www.warrenville.com/programs/readforacause_enespanol.php">en español</a></h4>
+  <h4><a href="readforacause_enespanol.php">en español</a></h4>
 
   <img src="images/readforacause.jpg" alt="Read for a Cause" style="  display: block; margin-left: auto; margin-right: auto; width: 600px;">
  <p><strong>Laugh. Learn. Escape. Improve. Question. Feel.</strong> Whatever your reason for reading, this summer read for a cause!</p>
@@ -30,7 +30,7 @@
 <p>&nbsp;</p>
 <p>To participate in Read for a Cause, you need to be a Warrenville Public Library cardholder. Warrenville Public Library District residents can apply for a library card <a href="https://www.warrenville.com/blog/index.php/get-a-wpld-library-card/">here.</a> </p>
 <p>&nbsp;</p>
-<p>To get your summer reading materials, use our <a href="https://wpld.info/curbside">Curbside Pickup service</a> or download books for free from <a href="https://emedialibrary.overdrive.com/emedialibrary-warrenville/content/">OverDrive/Libby</a>, <a href="https://www.hoopladigital.com/">Hoopla</a> and <a href="https://www.warrenville.com/reading/emedia.php#tumblebooks">TumbleBooks</a>. Swap books with friends or borrow from Warrenville’s Little Free Library locations. Get help selecting reading materials from our librarians by filling out a <a href="https://warrenville.libnet.info/discover">Discover Your Next Read form</a>.</p>
+<p>To get your summer reading materials, use our <a href="https://wpld.info/curbside">Curbside Pickup service</a> or download books for free from <a href="https://emedialibrary.overdrive.com/emedialibrary-warrenville/content/">OverDrive/Libby</a>, <a href="https://www.hoopladigital.com/">Hoopla</a> and <a href="../reading/emedia.php#tumblebooks">TumbleBooks</a>. Swap books with friends or borrow from Warrenville’s Little Free Library locations. Get help selecting reading materials from our librarians by filling out a <a href="https://warrenville.libnet.info/discover">Discover Your Next Read form</a>.</p>
 <p>&nbsp;</p>
 <p>Because you can't visit the library right now to drop off your reading logs, you can easily <strong>submit completed logs <a href="https://warrenville.libnet.info/read-for-a-cause">online</a></strong>. If you’d rather use a paper log to track your books or time (for youth 0-11), you can access <a href="https://warrenville.libnet.info/read-for-a-cause#forms">printable forms</a> that include directions for submission. Record your reading from July 1-August 15, and submit your logs by August 22.</p>
 <p>&nbsp;</p>

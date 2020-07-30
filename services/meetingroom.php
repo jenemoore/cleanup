@@ -10,7 +10,7 @@
 <p>&nbsp;</p>
 <h4 align="left">Study Rooms</h4>
 <p align="left">Study rooms may be reserved up  to 7 days in advance by Warrenville Library cardholders. Same day reservations  and walk-ins are welcome. Maximum reservation length is 3 hours. Limit 1  reservation per day.</p>
-<p align="left"><a href="https://www.warrenville.com/about/Policies/371StudyRoom.pdf" target="_blank">Download the Study Room Policy</a></p>
+<p align="left"><a href="../about/Policies/371StudyRoom.pdf" target="_blank">Download the Study Room Policy</a></p>
 <p align="left">&nbsp;</p>
 <p align="left"><u>Adult Study  Rooms</u><br>
   Call 630/393-1171 x121 to make  a reservation<br>
@@ -27,7 +27,7 @@
 <h4 align="left">Meeting Room</h4>
 <p align="left">The Library Meeting Room is  available for educational, informational, cultural and civic functions of the  Warrenville community. Reservations are not accepted for social or private  functions. Admission fees, sales, solicitation and promotion of a specific  product/service are prohibited. </p>
 <p align="left"><a href="mailto:jackie@warrenville.com?Subject=Meeting Room Inquiry" target="_top">Email</a> or call 630/393-1171 x119  for more information or to <a href="https://rooms.warrenville.com/reserve">check availability</a>.<br>
-  <a href="https://www.warrenville.com/about/Policies/370MeetingRoom.pdf" target="_blank"></a><a href="../about/Policies/370MeetingRoom.pdf" target="_blank">Download the Meeting Room Policy</a></p>
+  <a href="../about/Policies/370MeetingRoom.pdf" target="_blank">Download the Meeting Room Policy</a></p>
 <p align="left"><a href="https://rooms.warrenville.com/reserve">Submit an Online Reservation</a> (Warrenville Library Card and PIN required)<br>
 </p>
 <p align="left"><a href="MtgRmResForm0917.pdf" target="_blank">Download a Reservation Request  Form</a><a href="Meeting Room Reservation Form July 2017 .pdf" target="_blank"></a></p>
@@ -41,13 +41,13 @@
 <p align="left">Reservations must be made by an  adult (18 years or older). Requests <a href="Meeting Room Reservation Form July 2017 .pdf" target="_blank"></a> must be received a minimum of one  week prior to an event. Reservations are considered tentative until the  reservation form is received, approved and confirmed by the Library Director or  designee. Reservations will be confirmed within 5 business days.</p>
 <p align="left">&nbsp;</p>
 <p align="left">The Meeting Room may be  reserved for the following days and times:</p>
-<p align="left">Monday through  Thursday: 10 a.m. – 8:30 p.m.<br>
-  Friday:                                     10 a.m. –  6:30 p.m.<br>
-  Saturday:                                10 a.m. – 4:30  p.m.<br>
+<p align="left">Monday through  Thursday: 10 a.m. ï¿½ 8:30 p.m.<br>
+  Friday: ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ 10 a.m. ï¿½  6:30 p.m.<br>
+  Saturday:ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 10 a.m. ï¿½ 4:30  p.m.<br>
   <br>
   Limit one reservation per  organization per month. Reservations are not transferable.</p>
 <p align="left">&nbsp;</p>
-<p align="left">Please review the <a href="../about/Policies/370MeetingRoom.pdf" target="_blank">Meeting Room  Policy</a><a href="https://www.warrenville.com/about/Policies/370MeetingRoom.pdf"></a> for additional rules and restrictions prior to submitting your request.</p>
+<p align="left">Please review the <a href="../about/Policies/370MeetingRoom.pdf" target="_blank">Meeting Room  Policy</a> for additional rules and restrictions prior to submitting your request.</p>
 <p>&nbsp;</p>
 <!--<p>The  Hudetz Family Meeting Room may be reserved by Warrenville Library cardholders  when not in use for Library-sponsored programs and activities. The room  accommodates up to 72 people seated auditorium style. Chairs, tables and a  projection screen are available. There is no charge to reserve the room.</p>
 <p><br>
@@ -98,7 +98,7 @@
   </li>
   <li>
     <p>Not  more than 90 days in advance</p>
-    
+
   </li>
 </ul>
 <p>Q. Is there a limit on Hudets Room reservations?</p>
