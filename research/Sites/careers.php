@@ -1,4 +1,10 @@
-<?php $page_title = "Research - Online Resources - Careers"; ?>
+<?php $page_title = "Research - Online Resources - Careers";
+$inner = "../";
+$about = "../";
+$programs = "../";
+$reading = "../";
+$research = "";
+$services = "../"; ?>
 
 <?php include("../../includes/header.php"); ?>
 
@@ -12,24 +18,24 @@
 <p>In addition to these  websites, a search for the subject <strong>&ldquo;career&rdquo;</strong> in the Library&rsquo;s online catalog will result in listings that include some <strong>eBooks</strong> and <strong>eAudiobooks</strong> that may be downloaded to your computer or mobile  device.</p>
 <p><br>
   Other useful words for  searching the Library catalog on this topic are &ldquo;<strong>job hunting</strong>&rdquo;, &ldquo;<strong>occupation</strong>&rdquo;,  and &ldquo;<strong>vocation</strong>&rdquo;. Many job hunting  items are shelved with call numbers in the <strong>650</strong>'s  at the library.</p>
-  
+
 <h4>Career Counseling Centers</h4>
 <ul class="resource_list">
 <li><a href="https://www.communitycareercenter.org"><strong>Community Career Center</strong></a> &ndash; The Community Career Center is a  501c3 charitable organization sponsored by community donations. They provide information,  workshops and classes for job seekers. 1815 W. Diehl Road, Ste. 100,  Naperville, IL.&nbsp; Phone: (630) 961-5665, Office Hours: Monday-Thursday: 9:00-3:00,  Friday &amp; Saturday: 9:00-1:00.</li>
-  
+
 <li><a href="https://cod.edu/about/career/community.aspx"><strong>COD Career Services</strong></a> &ndash; Career Services assists community residents and alumni with the job search process by equipping them with the appropriate tools and resources to secure current or future employment. Career Services engages job seekers to help them develop an employment plan and develop job search strategies and documents. Career Services primarily assists clients through individual appointments. Phone:  (630) 942-2230.</li>
 
 <li><a href="https://www.parents-alliance.org"><strong>Parents Alliance Employment Project</strong></a> &ndash; Organization devoted  to improving the quality of life for people with disabilities through  individualized employment services including career counseling, workshops, job  development and placement, job coaching and support services. A partner with workNet  DuPage located at: 2525 Cabot  Drive, Suite 302, Lisle, IL.</li>
-  
+
 <li><a href="https://www.peoplesrc.org/"><strong>People&rsquo;s Resource Center</strong></a> &ndash; Job search assistance helps low income  residents of DuPage County secure and maintain employment. Located in Wheaton  and Westmont, this social service center also offers computer skills training,  ESL classes and tutorials. Job Club:  (Wheaton): 201 S. Naperville  Road, Wheaton - held the 2nd and 4th Mondays of the month at 1:00  pm.&nbsp;Phone: 630-682-5402 x333.</li>
-  
+
 <li><a href="https://www.worknetdupage.org/"><strong>workNet DuPage</strong></a> &ndash; Career Center offers job postings, networking,  workshops, and career assessment opportunities for occupational training  grants. Located at: 2525 Cabot Drive, Suite 302, Lisle, IL 60532, Phone:&nbsp;(630)  955-2030.</li>
 </ul>
- 
+
 <h4>Career Guidance &amp; Training</h4>
 <ul class="resource_list">
 <li><a href="https://www.askamanager.org/" target="_blank"><strong>Ask a Manager</strong></a> &ndash; Advice blog offering tips on interviewing, resumes, and managing your professional life.</li>
- 
+
 <li><a href="https://www.youtube.com/watch?v=V9W4SogHXhI" target="_blank"><strong>Basic  Interview Skills</strong></a> &ndash; Rockland Community College provides  tips and advice for a  successful interview.</li>
 
 <li><a href="https://www.best-job-interview.com/" target="_blank"><strong>Best Job  Interview </strong></a> &ndash; Information on phone interviews, negotiating salaries, what to  wear, answering common or tough interview questions, and how to follow up.</li>
@@ -118,4 +124,4 @@
 </div>
 </div><!--end content-->
 
-<?php include("../../includes/footer.html"); ?>
+<?php include("../../includes/footer.php"); ?>

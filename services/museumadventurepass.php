@@ -1,4 +1,10 @@
-<?php $page_title = "Services - Museum Adventure Pass"; ?>
+<?php $page_title = "Services - Museum Adventure Pass";
+$inner = "../";
+$about = "../";
+$programs = "../";
+$reading = "../";
+$research = "../";
+$services = "";?>
 
 <?php include("../includes/header.php"); ?>
 
@@ -12,10 +18,10 @@
   <p>Your library card is all you need to take part in these   learning adventures. Note: You can only check out passes from your home library.   One Museum Adventure Pass may be checked out per person, per loan period.</p>
   <p>&nbsp;</p>
   <p><a href="https://www.museumadventure.org">View a full listing of participating institutions and  check-out guidelines</a> or ask for more info at   the Library.</p>
-  <p>&nbsp;</p> 
+  <p>&nbsp;</p>
   <p>&nbsp;</p>
 
 </div>
 </div><!--end content-->
 
-<?php include("../includes/footer.html"); ?>
+<?php include("../includes/footer.php"); ?>

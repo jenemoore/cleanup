@@ -1,4 +1,10 @@
-<?php $page_title = "Research - Online Resources - Health"; ?>
+<?php $page_title = "Research - Online Resources - Health";
+$inner = "../";
+$about = "../";
+$programs = "../";
+$reading = "../";
+$research = "";
+$services = "../";?>
 
 <?php include("../../includes/header.php"); ?>
 
@@ -22,7 +28,7 @@
         Help  desk:</strong>&nbsp; Trained Illinois  specialists can take consumers through the website screening process and help  them enroll. </p>
        <p> <strong>Community  organizations:</strong>&nbsp; Official partner  organizations can give consumers in-person assistance with the website. </p>
       <p><strong>Navigators:</strong>&nbsp; In  the coming weeks, nearly 1,200 trained specialists will also be available to  help Illinois residents understand the plans and how to obtain financial  support through government subsidies.</p>
-      
+
      <li> <strong><a href="https://illinoishealthmatters.org/">Illinois Health Matters</a></strong> &ndash;      A collaboration of health policy and community  based organizations which provides information about  health care reform in Illinois.</li>
      <li> <strong><a href="https://kff.org/interactive/subsidy-calculator/">Kaiser Family Foundation Subsidy Calculator</a></strong><a href="https://kff.org/interactive/subsidy-calculator/"></a> &ndash;      This tool  illustrates health insurance premiums and subsidies for people purchasing  insurance on their own in new health insurance exchanges (or &ldquo;Marketplaces&rdquo;)  created by the Affordable Care Act (ACA). With this calculator, you can enter  different income levels, ages, and family sizes to get an estimate of your  eligibility for subsidies and how much you could spend on health insurance. As  premiums and eligibility requirements may vary, contact your state&rsquo;s Medicaid  office or exchange with enrollment questions.</li>
 </ul>
@@ -85,4 +91,4 @@
 </div>
 </div><!--end content-->
 
-<?php include("../../includes/footer.html"); ?>
+<?php include("../../includes/footer.php"); ?>

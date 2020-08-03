@@ -1,4 +1,10 @@
-<?php $page_title = "About Us - Library Policies"; ?>
+<?php $page_title = "About Us - Library Policies";
+$inner = "../";
+$about = "";
+$programs = "../";
+$reading = "../";
+$research = "../";
+$services = "../"; ?>
 
 <?php include("../includes/header.php"); ?>
 
@@ -77,7 +83,7 @@
 </li><li>
   <p><a href="Policies/350CommunityBulletinBoard.pdf" target="_blank">#350 &ndash; Community Bulletin Board and Distribution of Free Information</a><A href="Policies/350Distribution of Free Materials.pdf" target="_blank"></A></p>
 </li>
-<li>  
+<li>
   <p><a href="Policies/355Petitions.pdf" target="_blank">#355 - Petition Policy</a></p>
 </li>
 <li>
@@ -119,4 +125,4 @@
 </ul>
 </div>
 </div><!--end content-->
-<?php include("../includes/footer.html"); ?>
+<?php include("../includes/footer.php"); ?>

@@ -1,4 +1,10 @@
-<?php $page_title = "Research - Online Resources - Taxes"; ?>
+<?php $page_title = "Research - Online Resources - Taxes";
+$inner = "../";
+$about = "../";
+$programs = "../";
+$reading = "../";
+$research = "";
+$services = "../"; ?>
 
 <?php include("../../includes/header.php"); ?>
 
@@ -10,7 +16,7 @@
 
 <p>&nbsp;</p>
 <p>In the Library, books on the subject  of <strong>tax returns</strong> are shelved with Call  Number <strong>336.24</strong>.</p>
-  
+
 <p>&nbsp;</p>
 <ul class="resource_list">
 <li><a href="https://www.aarp.org/money/taxes/aarp_taxaide/" target="_blank"><strong>AARP  Tax-Aide</strong>&nbsp;</a> &ndash; Volunteer-run  tax assistance and preparation service helps low to  moderate income taxpayers prepare their tax returns.</li>
@@ -36,4 +42,4 @@
 </div><!--end content-->
 
 
-<?php include("../../includes/footer.html"); ?>
+<?php include("../../includes/footer.php"); ?>

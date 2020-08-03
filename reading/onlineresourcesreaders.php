@@ -1,4 +1,10 @@
-<?php $page_title = "Reading - Online Resources for Readers"; ?>
+<?php $page_title = "Reading - Online Resources for Readers";
+$inner = "../";
+$about = "../";
+$programs = "../";
+$reading = "";
+$research = "../";
+$services = "../"; ?>
 
 <?php include("../includes/header.php"); ?>
 
@@ -48,7 +54,7 @@
 
 <td width=45% >
 <h4>Genre Resources</h4>
-<ul class="resource_list">  
+<ul class="resource_list">
     <li><A href="https://www.poisonedpen.com"><strong>The Poisoned Pen</strong></A> - This site is published by an independent book seller, focuses on mystery book lists, mystery   conferences, and award lists. For a fee, readers can subscribe to their newsletter.</li>
     <li><A href="https://www.theromancereader.com/"><strong>The Romance Reader</strong></A> - This sister site to The Mystery Reader also includes book reviews, author information and features about romance.</li>
 	<li><a href="https://smartbitchestrashybooks.com/"><strong>Smart Bitches, Trashy Books</strong></a> - Reviews of romance (and other) novels, featuring content warnings and sortable by heat level.</li>
@@ -65,7 +71,7 @@
 	<li><a href="https://strangehorizons.com/"><strong>Strange Horizons</strong></a> - A digital magazine which has been publishing online since 2000; new free content is published weekly.</li>
 	<li><a href="https://subterraneanpress.com/magazine"><strong>Subterranean Press</strong></a> - The digital branch of the magazine and publisher offers regular new short fiction and extensive archives.</li>
 </ul>
-  
+
 <H4>Reading Guides</H4>
 <ul class="reading_list">
     <li><A href="https://www.randomhouse.com/broadway/browse/rgg.html">Broadway Reading Guides</A></li>
@@ -84,4 +90,4 @@
 
 </div><!--end content-->
 
-<?php include("../includes/footer.html"); ?>
+<?php include("../includes/footer.php"); ?>

@@ -1,4 +1,10 @@
-<?php $page_title = "About Us - Freedom of Information Act"; ?>
+<?php $page_title = "About Us - Freedom of Information Act";
+$inner = "../";
+$about = "";
+$programs = "../";
+$reading = "../";
+$research = "../";
+$services = "../";?>
 
 <?php include("../includes/header.php"); ?>
 
@@ -19,7 +25,7 @@ Warrenville Public Library District<br>
 <p><strong>Via eMail:</strong>
 <p><a href="mailto:FOIA@warrenville.com">FOIA@warrenville.com</a>
 <p><br>
-  
+
 <p><strong>Via fax:</strong><br>
 Attn: Library Director/FOIA Officer<br>
 <p>630/393&ndash;1688</p>
@@ -51,4 +57,4 @@ If records are provided in electronic format, then the actual cost of the   medi
 </div>
 </div><!--end content-->
 
-<?php include("../includes/footer.html"); ?>
+<?php include("../includes/footer.php"); ?>

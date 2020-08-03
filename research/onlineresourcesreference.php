@@ -1,4 +1,10 @@
-<?php $page_title = "Research - Online Resources for Reference"; ?>
+<?php $page_title = "Research - Online Resources for Reference";
+$inner = "../";
+$about = "../";
+$programs = "../";
+$reading = "../";
+$research = "";
+$services = "../"; ?>
 
 <?php include("../includes/header.php"); ?>
 
@@ -35,7 +41,7 @@
 <li><a href="Sites/travel.php">Travel</a></li>
 <li><a href="Sites/weather.php">Weather</a></li>
   </ul>
-  
+
 </td>
 <td width=5% ></td>
 
@@ -60,4 +66,4 @@
 
 </div><!--end content-->
 
-<?php include("../includes/footer.html"); ?>
+<?php include("../includes/footer.php"); ?>

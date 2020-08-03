@@ -1,4 +1,10 @@
-<?php $page_title = "Programs - Summer Reading Program"; ?>
+<?php $page_title = "Programs - Summer Reading Program";
+$inner = "../";
+$about = "../";
+$programs = "";
+$reading = "../";
+$research = "../";
+$services = "../"; ?>
 
 <?php include("../includes/header.php"); ?>
 
@@ -56,4 +62,4 @@ Departamento de Servicios para Adultos: 630/393-1171 x121; <a href="mailto:adult
 </div>
 </div><!--end content-->
 
-<?php include("../includes/footer.html"); ?>
+<?php include("../includes/footer.php"); ?>

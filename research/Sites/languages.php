@@ -1,4 +1,10 @@
-<?php $page_title = "Research - Online Resources - Languages"; ?>
+<?php $page_title = "Research - Online Resources - Languages";
+$inner = "../";
+$about = "../";
+$programs = "../";
+$reading = "../";
+$research = "";
+$services = "../"; ?>
 
 <?php include("../../includes/header.php"); ?>
 
@@ -17,9 +23,9 @@
 <li><a href="https://www.bbc.co.uk/languages/" target="_blank"><strong>BBC  Languages</strong></a> &ndash; Practice a new language with audio and video  courses. Learn <a href="https://www.bbc.co.uk/languages/other/quickfix/" target="_blank">essential phrases in 40 languages</a> and  find <a href="https://www.bbc.co.uk/languages/guide/languages.shtml" target="_blank">facts about languages</a>, such as the world&rsquo;s most  spoken languages. <a href="https://www.bbc.co.uk/languages/tutors/" target="_blank">Resources for instructors</a> include suggestions  for lessons and grammar notes.</li>
 
 <li><a href="https://www.dliflc.edu/resources/products/" target="_blank"><strong>Defense  Language Institute Foreign Language Center</strong></a> &ndash; This  organization offers online learning and assessment tools. <a href="https://phone.dliflc.edu/default.asp" target="_blank">Phone Conversations</a> provides audio of casual  phone conversations in Arabic and Spanish dialects. Topics include education,  family life and shopping. <a href="https://gloss.dliflc.edu/Default.aspx" target="_blank">GLOSS</a> features reading and listening lessons  in about 30 languages.</li>
-  
+
 <li><a href="https://www.learner.org/resources/series75.html"><strong>Destinos:  An Introduction to Spanish</strong></a><strong> and <a href="https://www.learner.org/resources/series83.html">French in Action</a></strong> &ndash; These  Annenberg Learner video series for college and high school students and adult  learners teach speaking and listening skills.</li>
- 
+
 <li><a href="https://www.learnalanguage.com/" target="_blank"><strong>Learn  a Language</strong></a> &ndash; Find lessons, online flashcards, activities  and games to enhance language learning. Available languages are Chinese,  French, German, Italian, Japanese, Russian and Spanish. The site also offers  English instruction for French and Spanish speakers.</li>
 
 <li><a href="https://rpa.warrenville.com/rpa/default/webauth.htm?rs=Mango" target="_blank"><strong>Mango Languages</strong></a> &ndash; An online language  learning system teaching practical conversation skills for a wide variety of  popular languages. With everyday dialogue from native speakers, engaging  interactive lessons and a unique intuitive teaching style, Mango increases your  ability to use, adapt and build on what you learn.<strong> This  database is available  remotely with your Warrenville Library card number and 4 digit PIN. </strong></li>
@@ -31,4 +37,4 @@
 </div>
 </div><!--end content-->
 
-<?php include("../../includes/footer.html"); ?>
+<?php include("../../includes/footer.php"); ?>

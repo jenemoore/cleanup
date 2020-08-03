@@ -1,4 +1,10 @@
-<?php $page_title = "Services - Community Involvement"; ?>
+<?php $page_title = "Services - Community Involvement";
+$inner = "../";
+$about = "../";
+$programs = "../";
+$reading = "../";
+$research = "../";
+$services = "";?>
 
 <?php include("../includes/header.php"); ?>
 
@@ -16,7 +22,7 @@
 
 <h4>Paperback Exchange</h4>
  <p> A community paperback  exchange is located in the lower level lobby. Works of popular fiction authors  may be borrowed and returned at your convenience. The Library accepts donated  fiction paperbacks to be added to the Paperback Exchange.</p>
- 
+
 <!--<h4>Shop at the Book Sale</h4>
  <p> Shoppers will find a  variety of items in the ongoing book sale in the lower level lobby. Items for  sale include hardcover and paperback books, videos, computer software, and  audio books. Hardcover books for adults cost just $1. All children's books are 25 cents each. A variety of  fiction and nonfiction titles  are available.  Proceeds from the sales are  returned to the Library's general fund to be used for materials, programs, and  services. </p>
   -->
@@ -29,4 +35,4 @@
 </div>
 </div><!--end content-->
 
-<?php include("../includes/footer.html"); ?>
+<?php include("../includes/footer.php"); ?>

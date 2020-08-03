@@ -1,4 +1,10 @@
-<?php $page_title = "Services - Copy / Fax / Print / Scan"; ?>
+<?php $page_title = "Services - Copy / Fax / Print / Scan";
+$inner = "../";
+$about = "../";
+$programs = "../";
+$reading = "../";
+$research = "../";
+$services = "";?>
 
 <?php include("../includes/header.php"); ?>
 
@@ -44,4 +50,4 @@ Android: <a href="https://play.google.com/store/apps/details?id=com.eprintit.epr
 </div>
 </div><!--end content-->
 
-<?php include("../includes/footer.html"); ?>
+<?php include("../includes/footer.php"); ?>

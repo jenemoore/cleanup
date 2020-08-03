@@ -1,4 +1,10 @@
-<?php $page_title = "Reading - eBooks & eAudiobooks"; ?>
+<?php $page_title = "Reading - eBooks & eAudiobooks";
+$inner = "../";
+$about = "../";
+$programs = "../";
+$reading = "";
+$research = "../";
+$services = "../";  ?>
 
 <?php include("../includes/header.php"); ?>
 
@@ -63,7 +69,7 @@
 
     <h4>Libby, by OverDrive</h4>
         <p>Borrow ebooks, audiobooks, and magazines to read on your phone or tablet using the Libby app by OverDrive. You can even send and read your borrowed ebooks to your Kindle ereader (U.S. only)! It’s free and easy to get started for new users and a streamlined experience for current OverDrive app users. Learn more at <a href="https://www.overdrive.com/apps/libby/" target="_blank" rel="noopener noreferrer">overdrive.com/apps/libby/</a>.</p>
-                    
+
 <p>&nbsp;</p>
 <p>You can also browse, read and listen to the<a href="https://emedialibrary.overdrive.com/emedialibrary-warrenville/content/">eMediaLibrary collection</a> in your web browser.</p>
 
@@ -73,7 +79,7 @@
 <a name="rbdigital"><h4>RBdigital eMagazines  </h4></a>
 	<p><a href="http://rpa.warrenville.com:80/rpa/default/webauth.htm?rs=zinio"><img src="../images/Logos/rbdigital_logo.png" width="108" height="51" alt="RBdigital Logo"></a> </p>
     <p>Love reading magazines? Try the Library's  eMagazine collection and read them on your iPad, Android tablet, Mac or PC. Get immediate access to thousands of popular magazines and use the auto-checkout feature to get an email when a new issue of your favorite title is available.</p>
-      
+
 <h4>Instructions</h4>
 	<p><strong>Setting up your Account:</strong></p>
 	<uL>
@@ -107,13 +113,13 @@
 <img src="../images/tbl_logo.png" width="110px">
 <p>TumbleBooks, a world leader in online children's book databases, has made its family of online libraries available for free to all public libraries until at least August 31. Follow the links to access hundreds of eBooks and audiobooks. No library card, username or password is required.</p><br/>
 	 <p><strong><a href="https://www.tumblebooklibrary.com/auto_login.aspx?U=tumble735&P=books" target="_blank">TumbleBookLibrary</a></strong> -  K-6 children's ebook database</p>
-     <p><strong><a href="https://www.tumblemath.com/autologin.aspx?U=tumble2020&P=A3b5c6" target="_blank">TumbleMath</a></strong> - K-6  math ebook database</p>   
+     <p><strong><a href="https://www.tumblemath.com/autologin.aspx?U=tumble2020&P=A3b5c6" target="_blank">TumbleMath</a></strong> - K-6  math ebook database</p>
      <p><strong><a href="https://www.teenbookcloud.com/autologin.aspx?U=tumble2020&P=A3b5c6" target="_blank">TeenBookCloud</a></strong> -  ebook database for grades 7-12</p>
      <p><strong><a href="https://www.audiobookcloud.com/autologin.aspx?U=tumble2020&P=A3b5c6" target="_blank">AudioBookCloud</a></strong> - all  ages audio book database</p>
      <p><strong><a href="https://www.romancebookcloud.com/autologin.aspx?U=tumble2020&P=A3b5c6" target="_blank">RomanceBookCloud</a></strong> - a  huge collection of steamy Romance novels for the older crowd!</p>
-  
+
 <p>&nbsp;</p>
-         
+
 <a name="biblioboard"><h4>BiblioBoard Library</h4></a>
 <a href="https://library.biblioboard.com/home"><img src="../images/biblioboard.png" width="110px"></a>
 <p>Anyone who is physically in Illinois can access the content on <a href="https://library.biblioboard.com/home">BiblioBoard Library</a> without a login. Because BiblioBoard authenticates by the user's location, visiting the website or opening the app gives you access to e-books without needing to enter a library card number or other login. Unlimited checkouts and no return periods give readers instant access to all titles all the time.</p><br/>
@@ -130,4 +136,4 @@ Visit <a href="https://library.biblioboard.com/diagnostics">https://library.bibl
 </div>
 </div><!--end content-->
 
-<?php include("../includes/footer.html"); ?>
+<?php include("../includes/footer.php"); ?>

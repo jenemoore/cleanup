@@ -1,4 +1,10 @@
-<?php $page_title = "Thank You"; ?>
+<?php $page_title = "Thank You";
+$inner = "";
+$about = "";
+$programs = "";
+$reading = "";
+$research = "";
+$services = ""; ?>
 
 <?php include("includes/header.php"); ?>
 
@@ -21,4 +27,4 @@
 </div>
 <!--end content-->
 
-<?php include("includes/footer.html"); ?>
+<?php include("includes/footer.php"); ?>

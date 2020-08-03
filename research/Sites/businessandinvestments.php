@@ -1,4 +1,10 @@
-<?php $page_title = "Research - Online Resources - Business & Investments"; ?>
+<?php $page_title = "Research - Online Resources - Business & Investments";
+$inner = "../";
+$about = "../";
+$programs = "../";
+$reading = "../";
+$research = "";
+$services = "../"; ?>
 
 <?php include("../../includes/header.php"); ?>
 
@@ -58,8 +64,8 @@
 <li><a href="https://www.zillow.com"><strong>Zillow</strong></a> &ndash; Zillow provides a  free Home Valuation Tool for Real Estate enthusiasts.</li>
 </ul>
 <p>&nbsp;</p>
-<p><em>Inclusion of resources or references to them does not constitute or imply endorsement or support by the Warrenville Public Library District or its employees. The Library does not make warranty, express or implied, or assumes any legal liability for accuracy, completeness, or usefulness of any information from these resources.</em></p> 
+<p><em>Inclusion of resources or references to them does not constitute or imply endorsement or support by the Warrenville Public Library District or its employees. The Library does not make warranty, express or implied, or assumes any legal liability for accuracy, completeness, or usefulness of any information from these resources.</em></p>
 </div>
 </div><!--end content-->
 
-<?php include("../../includes/footer.html"); ?>
+<?php include("../../includes/footer.php"); ?>

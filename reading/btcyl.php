@@ -1,4 +1,10 @@
-<?php $page_title = "Reading – Books That Changed Your Life"; ?>
+<?php $page_title = "Reading – Books That Changed Your Life";
+$inner = "../";
+$about = "../";
+$programs = "../";
+$reading = "";
+$research = "../";
+$services = "../"; ?>
 
 <?php include("../includes/header.php"); ?>
 
@@ -46,7 +52,7 @@
 		<li style="margin-bottom:25px;list-style-type:none!important;"><img src="btcyl/giver.jpg" height="250px"><br/><a href="https://wpld.ent.sirsi.net/client/en_US/wpld/search/results?qu=%22The+Giver%22&qu=TITLE%3DThe+Giver&qu=AUTHOR%3Dlowry%2C+lois&isd=true">The Giver</a> by Lois Lowry</li>
 		<li style="margin-bottom:25px;list-style-type:none!important;"><img src="btcyl/harrypotter.jpg" height="250px"><br/><a href="https://wpld.ent.sirsi.net/client/en_US/wpld/search/results?qu=&qu=TITLE%3DHarry+Potter+&qu=AUTHOR%3DJ.K.+Rowling+&h=1">Harry Potter series</a> by J.K. Rowling</li>
 		<li style="margin-bottom:25px;list-style-type:none!important;"><img src="btcyl/outsiders.jpg" height="250px"><br/><a href="https://wpld.ent.sirsi.net/client/en_US/wpld/search/results?qu=The+Outsiders*&qf=AUTHOR%09Author%09Hinton%2C+S.+E.%09Hinton%2C+S.+E.">The Outsiders</a> by S.E. Hinton</li>
-		
+
 </ul>
 </div>
 
@@ -56,7 +62,7 @@
 		<li style="margin-bottom:25px;list-style-type:none!important;"><img src="btcyl/prisonerb.jpg" height="250px"><br/><a href="https://wpld.ent.sirsi.net/client/en_US/wpld/search/results?qu=Prisoner+B-3087&te=">Prisoner B-3087</a> by Alan Gratz </li>
 		<li style="margin-bottom:25px;list-style-type:none!important;"><img src="btcyl/fivefeet.jpg" height="250px"><br/><a href="https://wpld.ent.sirsi.net/client/en_US/wpld/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:266736/one?qu=5+Feet+Apart&qf=FORMAT%09Format%09BOOK%09Books&rt=false%7C%7C%7CTITLE%7C%7C%7CTitle">Five Feet Apart</a> by Rachel Lippincott</li>
 		<li style="margin-bottom:25px;list-style-type:none!important;"><img src="btcyl/stargirl.jpg" height="250px"><br/><a href="https://wpld.ent.sirsi.net/client/en_US/wpld/search/results?qu=Stargirl&qf=AUTHOR%09Author%09Spinelli%2C+Jerry%09Spinelli%2C+Jerry+%7C%7C+Spinelli%2C+Jerry.%09Spinelli%2C+Jerry.&rt=false%7C%7C%7CTITLE%7C%7C%7CTitle">Stargirl</a> by Jerry Spinelli</li>
-		
+
 </ul>
 </div>
 </p>
@@ -125,4 +131,4 @@
 
 </div><!--end content-->
 
-<?php include("../includes/footer.html"); ?>
+<?php include("../includes/footer.php"); ?>

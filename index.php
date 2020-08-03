@@ -1,4 +1,10 @@
 <?php $page_title = 'Warrenville Public Library District';
+  $inner = "";
+  $about = "";
+  $programs = "";
+  $reading = "";
+  $research = "";
+  $services = "";
 ?>
 
 <?php include( 'includes/header.php' );
@@ -57,5 +63,5 @@
 </div>
 <!--end content-->
 
-<?php include( 'includes/footer.html' );
+<?php include( 'includes/footer.php' );
 ?>

@@ -1,4 +1,10 @@
-<?php $page_title = "Research - Online Resources - Travel"; ?>
+<?php $page_title = "Research - Online Resources - Travel";
+$inner = "../";
+$about = "../";
+$programs = "../";
+$reading = "../";
+$research = "";
+$services = "../";?>
 
 <?php include("../../includes/header.php"); ?>
 
@@ -22,7 +28,7 @@
 <li><a href="https://www.tsa.gov/"><strong>Transportation Security  Administration</strong></a> &ndash; &ldquo;What to Know Before You Go&rdquo; advice offered by transportation  safety experts.</li>
 
 <li><a href="https://www.usa.gov/travel-and-immigration"><strong>Travel and Immigration</strong></a> &ndash; Travel tips and visa information from federal agencies for multiple modes of transportation.</li>
-  
+
 <li><a href="https://www.tripspot.com"><strong>Trip Spot: The Travel Spot on the  Web</strong></a>  &ndash; Find the best travel maps, fares, hotels, destination ideas, city guides, and  more.</li>
 
 <li><a href="https://travel.state.gov"><strong>U.S.State Department - Bureau of  Consular Affairs</strong></a> &ndash; Information for U.S citizens travelling abroad. Information for  foreign citizens trying to obtain a Visa to enter the U.S.</li>
@@ -32,4 +38,4 @@
 </div>
 </div><!--end content-->
 
-<?php include("../../includes/footer.html"); ?>
+<?php include("../../includes/footer.php"); ?>

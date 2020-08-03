@@ -1,4 +1,10 @@
-<?php $page_title = "About Us - Library Closings"; ?>
+<?php $page_title = "About Us - Library Closings";
+$inner = "../";
+$about = "";
+$programs = "../";
+$reading = "../";
+$research = "../";
+$services = "../";?>
 
 <?php include("../includes/header.php"); ?>
 
@@ -13,7 +19,7 @@
 <p>Easter Sunday</p>
 <p>Memorial Day &amp; preceding Sunday</p>
 <p>July 3 (Parade), early closing at 5 p.m.</p>
- 
+
 <p>Fourth of July</p>
 <p>Labor Day &amp; preceding Sunday</p>
 <p>Thanksgiving Eve, early closing at 1 p.m. </p>
@@ -27,4 +33,4 @@
 </div>
 </div><!--end content-->
 
-<?php include("../includes/footer.html"); ?>
+<?php include("../includes/footer.php"); ?>

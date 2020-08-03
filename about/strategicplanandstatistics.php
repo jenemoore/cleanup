@@ -1,4 +1,10 @@
-<?php $page_title = "About Us - Strategic Plan & Statistics"; ?>
+<?php $page_title = "About Us - Strategic Plan & Statistics";
+$inner = "../";
+$about = "";
+$programs = "../";
+$reading = "../";
+$research = "../";
+$services = "../";?>
 
 <?php include("../includes/header.php"); ?>
 
@@ -9,8 +15,8 @@
 <tr>
 <td width=45%>
 <H4>Strategic Plan</H4>
-<p>In 2018, the Warrenville Public Library District embarked on a strategic 
-  planning process inspired by feedback provided by the community it 
+<p>In 2018, the Warrenville Public Library District embarked on a strategic
+  planning process inspired by feedback provided by the community it
   serves. Through conversations with community members, local
   organizations, Library staff and the Board of Trustees, the Library set
   the following priorities.</p>
@@ -38,14 +44,14 @@
      <li>Library Cardholders: 5,807</li>
      <li>Computer Sessions: 16,383</li>
      </ul>
-  
+
   <p><strong>Programs </strong> </p>
   <ul>
     <li>5,092 people attended 89 Adult Programs</li>
     <li>7,376  people attended 174 Youth Programs</li>
     <li>264 people attended 50 Young Adult Programs</li>
    </ul>
-  
+
   <p><strong> Collections</strong></p>
   <ul>
    <li>Books Owned: 78,592</li>
@@ -73,4 +79,4 @@
 
 </div><!--end content-->
 
-<?php include("../includes/footer.html"); ?>
+<?php include("../includes/footer.php"); ?>

@@ -1,4 +1,10 @@
-<?php $page_title = "WPLD Website Search Results"; ?>
+<?php $page_title = "WPLD Website Search Results";
+$inner = "";
+$about = "";
+$programs = "";
+$reading = "";
+$research = "";
+$services = ""; ?>
 
 <?php include("includes/header.php"); ?>
 
@@ -28,4 +34,4 @@
 </div>
 <!--end content-->
 
-<?php include("includes/footer.html"); ?>
+<?php include("includes/footer.php"); ?>

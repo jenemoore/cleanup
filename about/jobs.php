@@ -1,4 +1,10 @@
-<?php $page_title = "About Us - Job Opportunities"; ?>
+<?php $page_title = "About Us - Job Opportunities";
+$inner = "../";
+$about = "";
+$programs = "../";
+$reading = "../";
+$research = "../";
+$services = "../";?>
 
 <?php include("../includes/header.php"); ?>
 
@@ -22,4 +28,4 @@
 </div>
 </div><!--end content-->
 
-<?php include("../includes/footer.html"); ?>
+<?php include("../includes/footer.php"); ?>

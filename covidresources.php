@@ -1,4 +1,10 @@
-<?php $page_title = "COVID-19 Resources"; ?>
+<?php $page_title = "COVID-19 Resources";
+$inner = "";
+$about = "";
+$programs = "";
+$reading = "";
+$research = "";
+$services = ""; ?>
 
 <?php include("includes/header.php"); ?>
 
@@ -116,4 +122,4 @@
 </div>
 <!--end content-->
 
-<?php include("../includes/footer.html"); ?>
+<?php include("../includes/footer.php"); ?>

@@ -1,4 +1,11 @@
-<?php $page_title = "About Us - Contact Us"; ?>
+<?php $page_title = "About Us - Contact Us";
+      $inner = "../";
+      $about = "";
+      $programs = "../";
+      $reading = "../";
+      $research = "../";
+      $services = "../";
+?>
 
 <?php include("../includes/header.php"); ?>
 <div id="content" class="internal">
@@ -40,4 +47,4 @@
 <p>&nbsp;</p>
 </div>
 </div><!--end content-->
-<?php include("../includes/footer.html"); ?>
+<?php include("../includes/footer.php"); ?>

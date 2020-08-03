@@ -1,4 +1,10 @@
-<?php $page_title = "Research - Online Resources - Genealogy"; ?>
+<?php $page_title = "Research - Online Resources - Genealogy";
+$inner = "../";
+$about = "../";
+$programs = "../";
+$reading = "../";
+$research = "";
+$services = "../";?>
 
 <?php include("../../includes/header.php"); ?>
 
@@ -50,4 +56,4 @@
 </div>
 </div><!--end content-->
 
-<?php include("../../includes/footer.html"); ?>
+<?php include("../../includes/footer.php"); ?>

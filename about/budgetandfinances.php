@@ -1,4 +1,10 @@
-<?php $page_title = "About Us - Budget & Finances"; ?>
+<?php $page_title = "About Us - Budget & Finances";
+$inner = "../";
+$about = "";
+$programs = "../";
+$reading = "../";
+$research = "../";
+$services = "../";?>
 
 <?php include("../includes/header.php"); ?>
 
@@ -266,4 +272,4 @@
     </div>
 </div>
 <!--end content-->
-<?php include("../includes/footer.html"); ?>
+<?php include("../includes/footer.php"); ?>

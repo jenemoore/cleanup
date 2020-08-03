@@ -5,15 +5,15 @@
     <title><?php echo $page_title; ?></title>
     <meta charset="iso-8859-1">
     <meta name="author" content="Warrenville Public Library District">
-    <link href="css/reset.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
-    <link href="css/superfish.css" rel="stylesheet" media="screen">
+    <link href="<?php echo $inner; ?>css/reset.css" rel="stylesheet">
+    <link href="<?php echo $inner; ?>css/style.css" rel="stylesheet">
+    <link href="<?php echo $inner; ?>css/superfish.css" rel="stylesheet" media="screen">
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
-    <script type="text/javascript" src="js/hoverIntent.js"></script>
-    <script type="text/javascript" src="js/superfish.js"></script>
-    <script type="text/javascript" src="js/supersubs.js"></script>
-    <script type="text/javascript" src="js/supposition.js"></script>
-    <script type="text/javascript" src="js/jquery.cycle.all.2.72.js"></script>
+    <script type="text/javascript" src="<?php echo $inner; ?>js/hoverIntent.js"></script>
+    <script type="text/javascript" src="<?php echo $inner; ?>js/superfish.js"></script>
+    <script type="text/javascript" src="<?php echo $inner; ?>js/supersubs.js"></script>
+    <script type="text/javascript" src="<?php echo $inner; ?>js/supposition.js"></script>
+    <script type="text/javascript" src="<?php echo $inner; ?>js/jquery.cycle.all.2.72.js"></script>
     <!--menu javascript-->
     <script type="text/javascript">
         $(document).ready(function() {
@@ -77,11 +77,11 @@
     <main>
         <div id="page-bg">
             <header class="banner-1">
-                <a href="index.php"><img src="images/logos/warrenvillepl-logo.png" alt="WPLD Homepage" id="logo"></a>
+                <a href="index.php"><img src="<?php echo $inner; ?>images/logos/warrenvillepl-logo.png" alt="WPLD Homepage" id="logo"></a>
                 <div id="header-left">
                     <h1>Warrenville Public Library District</h1>
                     <p>28W751 Stafford Place Warrenville, Illinois 60555<br />
-                        630/393-1171 &nbsp; <a href="about/contact.php">Contact Us</a> &nbsp;|&nbsp; <a href="https://www.mapquest.com/maps?2a=28w751+Stafford+Pl&2c=Warrenville&2s=IL&2z=60555-3002">Get Directions</a></p>
+                        630/393-1171 &nbsp; <a href="<?php echo $inner; ?>about/contact.php">Contact Us</a> &nbsp;|&nbsp; <a href="https://www.mapquest.com/maps?2a=28w751+Stafford+Pl&2c=Warrenville&2s=IL&2z=60555-3002">Get Directions</a></p>
                 </div>
                 <!--/#header-left-->
                 <div id="header-right">
@@ -154,9 +154,9 @@
                                 <tr>
                                     <td width="360" colspan="3" style="width:355px !important;">
                                         <div id="social-media">
-                                            <a href="https://www.facebook.com/pages/Warrenville-IL/Warrenville-Public-Library-District/102100486022"><img src="images/social-icons-facebook.png" alt="Warrenville Public Library District Facebook"></a>
-                                            <a href="https://www.twitter.com/warrenvillelib"><img src="images/social-icons-twitter.png" alt="Warrenville Public Library District Tweet"></a>
-                                            <a href="blog/index.php/feed/"><img src="images/social-icons-rss.png" alt="Warrenville Public Library District RSS Feed"></a>
+                                            <a href="https://www.facebook.com/pages/Warrenville-IL/Warrenville-Public-Library-District/102100486022"><img src="<?php echo $inner; ?>images/social-icons-facebook.png" alt="Warrenville Public Library District Facebook"></a>
+                                            <a href="https://www.twitter.com/warrenvillelib"><img src="<?php echo $inner; ?>images/social-icons-twitter.png" alt="Warrenville Public Library District Tweet"></a>
+                                            <a href="<?php echo $inner; ?><?php echo $inner; ?>blog/index.php/feed/"><img src="<?php echo $inner; ?>images/social-icons-rss.png" alt="Warrenville Public Library District RSS Feed"></a>
                                         </div>
                                         <input id="q" title="Search For:" maxlength="256" name="q" value="" type="text" accesskey="s" />
                                         <input value="Search" id="searchButton" class="button" title="Search" type="submit" />
@@ -182,66 +182,66 @@
                         </li>
                         <li><a href="#">About Us</a>
                             <ul>
-                                <li><a href="about/contact.php">Contact Us</a></li>
-                                <li><a href="about/history.php">History &amp; Mission</a></li>
-                                <li><a href="about/jobs.php">Job Opportunities</a></li>
+                                <li><a href="<?php echo $about; ?>about/contact.php">Contact Us</a></li>
+                                <li><a href="<?php echo $about; ?>about/history.php">History &amp; Mission</a></li>
+                                <li><a href="<?php echo $about; ?>about/jobs.php">Job Opportunities</a></li>
                                 <li><a href="#" class="subm">Library Governance <i class="subm-arrow"></i></a>
                                     <ul>
-                                        <li><a href="about/libraryboard.php">Library Board</a></li>
-                                        <li><a href="about/agendasandminutes.php">Agendas &amp; Minutes</a></li>
-                                        <li><a href="about/budgetandfinances.php">Budget &amp; Finances</a></li>
-                                        <li><a href="about/ordinances.php">Ordinances</a></li>
+                                        <li><a href="<?php echo $about; ?>about/libraryboard.php">Library Board</a></li>
+                                        <li><a href="<?php echo $about; ?>about/agendasandminutes.php">Agendas &amp; Minutes</a></li>
+                                        <li><a href="<?php echo $about; ?>about/budgetandfinances.php">Budget &amp; Finances</a></li>
+                                        <li><a href="<?php echo $about; ?>about/ordinances.php">Ordinances</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="#"  class="subm">Library Policies <i class="subm-arrow"></i></a>
                                     <ul>
-                                        <li><a href="about/policies.php">Policies</a></li>
-                                        <li><a href="about/freedomofinformationact.php">FOIA</a></li>
+                                        <li><a href="<?php echo $about; ?>about/policies.php">Policies</a></li>
+                                        <li><a href="<?php echo $about; ?>about/freedomofinformationact.php">FOIA</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="about/strategicplanandstatistics.php">Strategic Plan &amp; Statistics</a></li>
+                                <li><a href="<?php echo $about; ?>about/strategicplanandstatistics.php">Strategic Plan &amp; Statistics</a></li>
                             </ul>
                         </li>
                         <li><a href="#">Services</a>
                             <ul>
-                                <li><a href="services/bookalibrarian.php">Book a Librarian</a></li>
-                                <li><a href="services/communityinvolvement.php">Community Involvement</a></li>
+                                <li><a href="<?php echo $services; ?>services/bookalibrarian.php">Book a Librarian</a></li>
+                                <li><a href="<?php echo $services; ?>services/communityinvolvement.php">Community Involvement</a></li>
                                 <li><a href="#" class="subm">Computers & Technology <i class="subm-arrow"></i></a>
                                     <ul>
-                                        <li><a href="services/computerskills.php">Computer Skills</a></li>
-                                        <li><a href="services/computerandwifi.php">Computers & WiFi</a></li>
-                                        <li><a href="services/copyfaxprintscan.php">Copy / Fax / Print / Scan</a></li>
-                                        <li><a href="services/MobileMenu2017.pdf">Mobile Devices</a></li>
+                                        <li><a href="<?php echo $services; ?>services/computerskills.php">Computer Skills</a></li>
+                                        <li><a href="<?php echo $services; ?>services/computerandwifi.php">Computers & WiFi</a></li>
+                                        <li><a href="<?php echo $services; ?>services/copyfaxprintscan.php">Copy / Fax / Print / Scan</a></li>
+                                        <li><a href="<?php echo $services; ?>services/MobileMenu2017.pdf">Mobile Devices</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="services/homebound.php">Homebound Service</a></li>
+                                <li><a href="<?php echo $services; ?>services/homebound.php">Homebound Service</a></li>
                                 <!--<li><a href="https://warrenville.libnet.info/itemrequestform">Item Request Form</a></li>-->
                                 <li><a href="#" class="subm">Library Cards & Lending <i class="subm-arrow"></i></a>
                                     <ul>
-                                        <li><a href="services/librarycards.php">Library Cards</a></li>
-                                        <li><a href="services/loanperiodsandfees.php">Loan Periods & Fees</a></li>
-                                        <li><a href="services/notificationandbilling.php">Notification & Billing</a></li>
+                                        <li><a href="<?php echo $services; ?>services/librarycards.php">Library Cards</a></li>
+                                        <li><a href="<?php echo $services; ?>services/loanperiodsandfees.php">Loan Periods & Fees</a></li>
+                                        <li><a href="<?php echo $services; ?>services/notificationandbilling.php">Notification & Billing</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="services/meetingroom.php">Meeting Spaces</a></li>
-                                <li><a href="services/museumadventurepass.php">Museum Adventure Pass</a></li>
+                                <li><a href="<?php echo $services; ?>services/meetingroom.php">Meeting Spaces</a></li>
+                                <li><a href="<?php echo $services; ?>services/museumadventurepass.php">Museum Adventure Pass</a></li>
                             </ul>
                         </li>
                         <li><a href="#">Programs</a>
                             <ul>
                                 <li><a href="https://warrenville.libnet.info/events">Calendar of Events</a></li>
-                                <li><a href="programs/readforacause.php">Summer Reading 2020</a></li>
-                                <li><a href="programs/ondemand.php">Programs On Demand</a></li>
+                                <li><a href="<?php echo $programs; ?>programs/readforacause.php">Summer Reading 2020</a></li>
+                                <li><a href="<?php echo $programs; ?>programs/ondemand.php">Programs On Demand</a></li>
                             </ul>
                         </li>
                         <li><a href="#">Reading</a>
                             <ul>
-                                <li><a href="blog"> Book & Media Blog </a></li>
-                                <li><a href="reading/localbookdiscussions.php">Book Discussions</a></li>
+                                <li><a href="<?php echo $inner; ?>blog"> Book & Media Blog </a></li>
+                                <li><a href="<?php echo $reading; ?>reading/localbookdiscussions.php">Book Discussions</a></li>
                                 <li><a href="https://warrenville.libnet.info/discover">Discover Your Next Read</a></li>
                                 <li><a href="#" class="subm">eBooks & eMedia <i class="subm-arrow"></i></a>
                                     <ul>
-                                        <li><a href="reading/emedia.php">Getting Started</a></li>
+                                        <li><a href="<?php echo $reading; ?>reading/emedia.php">Getting Started</a></li>
                                         <li><a href="https://www.hoopladigital.com">Hoopla</a></li>
                                         <li><a href="https://emedialibrary.overdrive.com/emedialibrary-warrenville/content/" onClick="ga('send', 'event', { eventCategory: 'link', eventAction: 'service', eventLabel: 'emedialib'});">Overdrive</a></li>
                                         <li><a href="http://rpa.warrenville.com:80/rpa/default/webauth.htm?rs=zinio">RBdigital eMagazines</a></li>
@@ -249,17 +249,17 @@
                                     </ul>
                                 </li>
                                 <li><a href="https://www.libraryaware.com/1074/Subscribers/Subscribe">eNewsletters for Readers</a></li>
-                                <li><a href="reading/magazinesnewspapers.php">Magazines &amp; Newspapers</a></li>
-                                <li><a href="reading/onlineresourcesreaders.php">Online Resources for Readers</a></li>
-                                <li><a href="reading/emedia.php#tumblebooks">Tumblebooks</a></li>
+                                <li><a href="<?php echo $reading; ?>reading/magazinesnewspapers.php">Magazines &amp; Newspapers</a></li>
+                                <li><a href="<?php echo $reading; ?>reading/onlineresourcesreaders.php">Online Resources for Readers</a></li>
+                                <li><a href="<?php echo $reading; ?>reading/emedia.php#tumblebooks">Tumblebooks</a></li>
                             </ul>
                         </li>
                         <li><a href="#" class="last">Research</a>
                             <ul>
-                                <li><a href="research/databasesatoz.php">Databases A to Z</a></li>
-                                <li><a href="research/onlinelearning.php">Online Learning</a></li>
-                                <li><a href="research/onlineresourcesreference.php">Online Resources</a></li>
-                                <li><a href="covidresources.php">COVID-19 Resources</a></li>
+                                <li><a href="<?php echo $research; ?>research/databasesatoz.php">Databases A to Z</a></li>
+                                <li><a href="<?php echo $research; ?>research/onlinelearning.php">Online Learning</a></li>
+                                <li><a href="<?php echo $research; ?>research/onlineresourcesreference.php">Online Resources</a></li>
+                                <li><a href="<?php echo $research; ?>covidresources.php">COVID-19 Resources</a></li>
                             </ul>
                         </li>
                     </ul>

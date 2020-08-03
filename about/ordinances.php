@@ -1,4 +1,10 @@
-<?php $page_title = "About Us - Ordinances"; ?>
+<?php $page_title = "About Us - Ordinances";
+$inner = "../";
+$about = "";
+$programs = "../";
+$reading = "../";
+$research = "../";
+$services = "../";?>
 
 <?php include("../includes/header.php"); ?>
 
@@ -505,8 +511,8 @@
                   <td><p><a href="Ordinances Page/09-10-06 Prevailing Wage.pdf" target="_blank">An Ordinance Ascertaining the Prevailing Rate of Wages</a></p></td>
                   <td><p>6/16/10</p></td>
                 </tr>
-              </table>              
-              
+              </table>
+
               <p>&nbsp;</p>
               <p><strong>Fiscal Year 2009 (July 1, 2008 &ndash; June 30, 2009) </strong></p>
               <table width="560" border="1" cellpadding="0" cellspacing="0" bordercolor="#CCCCCC">
@@ -549,7 +555,7 @@
                   <td><p> <a href="Ordinances%20Page/08-09-06%20Prevailing%20Wage.pdf" target="_blank">An Ordinance Ascertaining the Prevailing Rate of Wages</a>  </p></td>
                   <td><p> 6/17/09 </p></td>
                 </tr>
-              </table>              
+              </table>
             </td>
           </tr>
       </table>
@@ -559,13 +565,13 @@
               </td>
               </tr>
               </table>
-              
-              
-              
+
+
+
             </p>
           </blockquote>
         </blockquote>
 </div>
 </div><!--end content-->
 
-<?php include("../includes/footer.html"); ?>
+<?php include("../includes/footer.php"); ?>

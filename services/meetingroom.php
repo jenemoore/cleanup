@@ -1,4 +1,10 @@
-<?php $page_title = "Services - Meeting Spaces"; ?>
+<?php $page_title = "Services - Meeting Spaces";
+$inner = "../";
+$about = "../";
+$programs = "../";
+$reading = "../";
+$research = "../";
+$services = ""; ?>
 
 <?php include("../includes/header.php"); ?>
 
@@ -41,9 +47,9 @@
 <p align="left">Reservations must be made by an  adult (18 years or older). Requests <a href="Meeting Room Reservation Form July 2017 .pdf" target="_blank"></a> must be received a minimum of one  week prior to an event. Reservations are considered tentative until the  reservation form is received, approved and confirmed by the Library Director or  designee. Reservations will be confirmed within 5 business days.</p>
 <p align="left">&nbsp;</p>
 <p align="left">The Meeting Room may be  reserved for the following days and times:</p>
-<p align="left">Monday through  Thursday: 10 a.m. – 8:30 p.m.<br>
-  Friday:                                     10 a.m. –  6:30 p.m.<br>
-  Saturday:                                10 a.m. – 4:30  p.m.<br>
+<p align="left">Monday through  Thursday: 10 a.m. ï¿½ 8:30 p.m.<br>
+  Friday: ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ 10 a.m. ï¿½  6:30 p.m.<br>
+  Saturday:ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 10 a.m. ï¿½ 4:30  p.m.<br>
   <br>
   Limit one reservation per  organization per month. Reservations are not transferable.</p>
 <p align="left">&nbsp;</p>
@@ -98,7 +104,7 @@
   </li>
   <li>
     <p>Not  more than 90 days in advance</p>
-    
+
   </li>
 </ul>
 <p>Q. Is there a limit on Hudets Room reservations?</p>
@@ -125,4 +131,4 @@
 </div>
 </div><!--end content-->
 
-<?php include("../includes/footer.html"); ?>
+<?php include("../includes/footer.php"); ?>

@@ -1,4 +1,10 @@
-<?php $page_title = "Research - Online Databases A - Z"; ?>
+<?php $page_title = "Research - Online Databases A - Z";
+$inner = "../";
+$about = "../";
+$programs = "../";
+$reading = "../";
+$research = "";
+$services = "../";?>
 
 <?php include("../includes/header.php"); ?>
 <div id="content" class="internal">
@@ -38,7 +44,7 @@
 <p><A href="https://www.lynda.com/portal/sip?org=warrenville.com" target="_blank"><strong>Lynda.com</strong></A> &ndash;Thousands of video courses in business, technology, and creative skills taught by industry experts. Learn software, design, coding, and business skills at your own pace, prepare for certification exams, and beef up your resume with new skills. This resource is available to Warrenville Public Library District cardholders only. </p>
 <p>&nbsp;</p>
 <p><a href="https://rpa.warrenville.com/rpa/default/webauth.htm?rs=MFile" target="_blank"><strong>MasterFILE Premiere</strong></a>&ndash; Search full-text articles from magazines like <i>Bon Appetit</i>, <i>GQ</i>, <i>National Geographic</i>, and more.</p>
-<p>&nbsp;</p>	
+<p>&nbsp;</p>
 <p><A href="https://rpa.warrenville.com/rpa/default/webauth.htm?rs=Mango" target="_blank"><STRONG>Mango Languages</STRONG></A> &ndash; An online language learning system   teaching practical conversation skills for a wide variety of popular languages.   With everyday dialogue from native speakers, engaging interactive lessons and a   unique intuitive teaching style, Mango increases your ability to use, adapt and   build on what you learn.</p>
 <p>&nbsp;</p>
 <p><A href="https://rpa.warrenville.com/rpa/default/webauth.htm?rs=oclcFSmedln" target="_blank"><STRONG>MEDLINE</STRONG></A> &ndash; Abstracts encompassing all areas of   medicine, including dentistry and nursing.</p>
@@ -73,4 +79,4 @@
 	<!--<p><a href="databasesatoztest.php">test</a></p>-->
 </div>
 </div><!--end content-->
-<?php include("../includes/footer.html"); ?>
+<?php include("../includes/footer.php"); ?>
