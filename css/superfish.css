@@ -2,8 +2,7 @@ nav {
 	width:940px;
 	height:38px;
 	margin:0 auto;
-	background: linear-gradient(180deg, rgba(0,78,39,1) 0%, rgba(0,57,29,1) 100%);
-		box-shadow: -1px -1px 3px rgba(0,0,0,.05) inset, 1px 1px 3px white inset;
+	background:url(../images/nav-bg.jpg) no-repeat;
   position:relative;
 	list-style: none;
 	z-index:800;
@@ -81,6 +80,7 @@ ul.sf-menu li li li.sfHover ul {
 	text-decoration:none;
 }
 .sf-menu li a {
+	background:url(../images/nav-divider.gif) right top no-repeat;
 	padding:0 39px;
 	}
 .sf-menu li a.last {

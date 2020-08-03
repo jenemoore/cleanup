@@ -1,4 +1,5 @@
 <?php $page_title = 'Warrenville Public Library District';
+
 ?>
 
 <?php include( 'includes/header.php' );
@@ -6,6 +7,7 @@
 
 <div id='content'>
     <div id='quick-links'>
+      <div class="imgwrap"><a href="programs/readforacause.php"><img src="images/readforacause2.jpg"></a></div>
         <h2>Newsletters:</h2>
         <ul>
             <li><a href='https://visitor.r20.constantcontact.com/d.jsp?llr=yipadecab&p=oi&m=1101796490520&sit=ibbni7scb&f=2df34856-88f3-4e4b-b1f9-48df1cafe8ba'>Subscribe to Library eNews</a> &raquo;

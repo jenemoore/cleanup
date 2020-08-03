@@ -1,5 +1,3 @@
-
-
 body {
     background: linear-gradient(180deg, rgba(197,173,125,1) 0%, rgba(210,190,150,1) 50%, rgba(219,200,160,1) 100%);
     margin: 0;
@@ -85,7 +83,7 @@ p {
 }
 
 main {
-    width: 960px;
+    width: 950px;
     margin: 0 auto;
 }
 
@@ -210,7 +208,7 @@ header #header-right {
 
 #content {
     width: 920px;
-    padding: 10px;
+    padding: 10px 10px 10px 0;
     margin: 0 0 0 10px;
     float: left;
     position: relative;
@@ -225,26 +223,45 @@ header #header-right {
     padding: 14px 16px 0;
 }
 
+.imgwrap {
+	width: 100%;
+	background: white;
+	margin-bottom: 9px;
+}
+
+#quick-links h2 {
+	font:bold 16px Arial, Helvetica, sans-serif;
+	color:#cbb385;
+	text-shadow:#000 0px -1px 0px;
+	padding-bottom:3px;
+	margin-bottom:3px;
+	border-bottom:1px solid #347054;
+}
 #quick-links ul {
-    margin-bottom: 22px;
+	margin-bottom:4px;
 }
-
 #quick-links ul li {
-    margin-bottom: 13px;
+	margin-bottom:2px;
+}
+#quick-links ul li a {
+	color:#fff;
+	font: normal 12px Arial, Helvetica, sans-serif;
+	text-shadow:#000 0px -1px 0px;
 }
 
-#quick-links ul li a {
-    color: #fff;
-    font: normal 15px/16px Arial, Helvetica, sans-serif;
-    text-shadow: #000 0px -1px 0px;
+#quick-links img {
+	width: 72%;
+	margin: 0 auto 4px auto;
+	display: block;
 }
 
 #slideshow {
     float: left;
     margin-left: 10px;
+    padding: 12px 5px 0 5px;
     overflow: auto;
-    width: 572px;
-    height: 325px;
+    width: 562px;
+    height: 330px;
     border: 1px solid #000;
     font: 14px;
 }
